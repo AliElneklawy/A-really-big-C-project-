@@ -7,4 +7,3 @@ The program has a very simple interface (shown below). You can notice the date a
 
 It is also passowrd-protected (you can disable it. Your choice!).
 
-![Passwrd prompt](https://github.com/AliElneklawy/A-really-big-C-project-/blob/main/doc/passwordPrompt.PNG)
