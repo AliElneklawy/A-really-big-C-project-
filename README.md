@@ -1,4 +1,4 @@
-# Password-Protected Book Management System
+# Password-Protected Library Management System
 **Note**: This is my first project ever. So, the code won't look so good to you. But it works anyway!
  
 The program has a very simple interface (shown below). You can notice the date and time at the top left coner. 
